@@ -2,5 +2,5 @@
 <EmailFolder xmlns="http://soap.sforce.com/2006/04/metadata">
     <accessType>Public</accessType>
     <name>Spectrum</name>
-    <publicFolderAccess>ReadOnly</publicFolderAccess>
+    <publicFolderAccess>Write</publicFolderAccess>
 </EmailFolder>
